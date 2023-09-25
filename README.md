@@ -1,13 +1,13 @@
 # Health-Machine
-![App Screenshots](screenshot/logo.png)
+![App Screenshots](screenshots/logo.png)
 
 
 ## Screenshots
 
-![App Screenshots](screenshot/1.jpg)
-![App Screenshots](screenshot/2.jpg)
-![App Screenshots](screenshot/3.jpg)
-![App Screenshots](screenshot/4.jpg)
+![App Screenshots](screenshots/1.jpg)
+![App Screenshots](screenshots/2.jpg)
+![App Screenshots](screenshots/3.jpg)
+![App Screenshots](screenshots/4.jpg)
 
 
 
